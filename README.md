@@ -3,7 +3,8 @@
 - 
 [![Wonderstk's GitHub | Stats](https://stats.quine.sh/Wonderstk/github?theme=light)](https://quine.sh)
 <h1 align="center">Hi 👋, I'm Mehul Kumar</h1>
-<h3 align="center">A passionate frontend developer , Open Source Contributer, DSA enthusiastic, habitual  Programmer from India</h3>
+<h3 align="center">Front-End Specialist & Web Developer | Passionate about Web3 and blockchain innovation | Expert in Ethereum & Solana development | Skilled in [Your Primary Front-End Technologies, e.g., HTML, CSS, JavaScript, React, Redux, Typescript, GraphQL, NextJS, and UI/UX Frameworks] | Open to collaborate on cutting-edge projects | [Any Personal Motto or Quote]
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WonderSTK&label=Profile%20views&color=0e75b6&style=flat" alt="WonderSTK" /> </p>
 
@@ -14,15 +15,15 @@
 </div>
 
 
-- 🔭 I’m currently working on **Web development , DSA**
+- 🔭 I’m currently working on **Web3 development**
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning **Full stack development and Web3(Solana and Ethereum)**
 
 - 👯 I’m looking to collaborate on **Open Source , Web Projects**
 
-- 🤝 I’m looking for help with **Web development , Open source**
+- 🤝 I’m looking for help with **Front-end Web development,Web3(Solana and Ethereum) and any Open source contribution**
 
-- 💬 Ask me about **Web Development , DSA , Movies and Web Series**
+- 💬 Ask me about **Web Development, Crypto, Web3 technologies, Movies and Web Series**
 
 - 📫 How to reach me **mehulparmar9694@gmail.com**
 
