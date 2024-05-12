@@ -3,7 +3,7 @@
 - 
 [![Wonderstk's GitHub | Stats](https://stats.quine.sh/Wonderstk/github?theme=light)](https://quine.sh)
 <h1 align="center">Hi 👋, I'm Mehul Kumar</h1>
-<h3 align="center">Front-End Specialist & Web Developer | Passionate about Web3 and blockchain innovation | Expert in Ethereum & Solana development | Skilled in [Your Primary Front-End Technologies, e.g., HTML, CSS, JavaScript, React, Redux, Typescript, GraphQL, NextJS, and UI/UX Frameworks] | Open to collaborate on cutting-edge projects | [Any Personal Motto or Quote]
+<h3 align="center">Front-End Specialist & Web Developer | Passionate about Web3 and blockchain innovation | Expert in Ethereum & Solana development | Skilled in [HTML, CSS, JavaScript, React, Redux, Typescript, GraphQL, NextJS, C++, Rust, Solidity, EtherJS and UI/UX Frameworks] | Open to collaborate on cutting-edge projects | [Decentralizing the future with Solidity, one block at a time]
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WonderSTK&label=Profile%20views&color=0e75b6&style=flat" alt="WonderSTK" /> </p>
