@@ -79,10 +79,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
   </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+    <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/solidity-1.png" alt="solidity" width="40" height="40"/>
   </a>
   <a href="https://docs.ethers.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/ethers.svg" alt="ethersjs" width="40" height="40"/>
+    <img src="https://media.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqt2ywp6nprimyxnfhmc2.png" alt="ethersjs" width="40" height="40"/>
   </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WonderSTK&show_icons=true&locale=en&layout=compact" alt="WonderSTK" /></p>
