@@ -76,7 +76,7 @@
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfT692BQnT9DMi5ByX2HNMcHpFoH55VEUWA&s" alt="rust" width="40" height="40"/>
   </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/solidity-1.png" alt="solidity" width="40" height="40"/>
