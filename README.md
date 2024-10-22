@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **cutting-edge Web3 projects**
+- 🔭 Currently working on **cutting-edge Front-end Web projects**
 - 🌱 Learning **Full Stack Development** and diving deep into **Web3 (Solana & Ethereum)**
 - 👯 Open to collaborate on **innovative Web Projects** and **Open Source initiatives**
 - 💡 Passionate about creating seamless user experiences and pushing the boundaries of web technology
@@ -79,7 +79,7 @@
   <a href="mailto:mehulparmar9694@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="https://personal-portfolio-liard-five.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://instagram.com/im_mehul.k" target="_blank">
