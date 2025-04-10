@@ -44,7 +44,7 @@
 - 🎬 **Certified Cinephile** who can quote every Jake Gyllenhaal movie
 - 🏏 **Virat Kohli stan** since before it was cool (*King Kohli supremacy!*)
 - 🌮 Will code for tacos
-- 🎮 Gamer by night, coder by day (sometimes vice versa)
+- 💻🌙 Code sleeps when the screen glows with cinema(and sometimes the reverse)
 - 💭 *"It's not a bug, it's an undocumented feature"*
 
 ## <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="45"> Favorite Quotes
@@ -55,7 +55,7 @@
       <td align="center">
         <img src="https://media.giphy.com/media/sYwp5A44HHrYQ/giphy.gif?cid=790b7611g5lvxkoik2pkwgevm3b47g28s8hz0bc3shn6d942&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200px" alt="Movie Scene" />
         <p><i>"Sometimes I doubt your commitment to Sparkle Motion!"</i></p>
-        <p>— Donnie Darko (Jake Gyllenhaal), <b>Donnie Darko</b></p>
+        <p>— Donnie Darko (Jake Gyllenhaal)</p>
       </td>
       <td align="center">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJ6NG1zaGN5YzE1M2xud2l5MTZ6bnZnczNmbXV1ZzhucWswMzlzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j8b1HyKmKxPtTDQ0m6/giphy.gif" width="200px" alt="Virat Kohli" />
